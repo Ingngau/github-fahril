@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    font-family: Kanit;
+    margin: 0;
+    padding: 0%;
+    background-color: #CAE6B2;
+    background-image: src="https://uclaradio.com/wp-content/uploads/2024/03/JamalEid_@jamal.eid_RollingLoudLA_20-scaled.jpg";
+
+}
+
+.jumbotron{
+    font-size: 25px;
+    text-align: right;
+    background-color: #3674B5;
+    color: #D1F8EF;
+    padding: 20px;
+}
+
+.jumbotron ul li{
+    display:block;
+}
+
+nav{
+   background-color: #A1E3F9; 
+   padding: 10px;
+}
+
+nav ul li{
+    display: inline;
+    margin: 14%;
+}
+
+nav ul li a{
+    text-decoration: none;
+    font-weight: bolder;
+    color: #3674B5;
+}
+
+nav ul li a:hover{
+    background-color: #c6f1ff;
+    padding: 0.9em;
+    border-radius: 7px;
+    transition: padding 0.7s ease;
+}
+
+.head-red {
+    background-color: #740938;
+    text-align: justify;
+    color: white;
+    margin: 50px;
+    padding: 30px;
+    border-radius: 30px;
+    width: 50%;
+    align-items: center;
+    margin-left: 25%;
+}
+
+.head-red h5{
+    text-align: right;
+}
+
+.head-red h2{
+    background-color: #AF1740;
+    padding: 30px;
+    margin: 50px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 30px;
+    
+}
+
+.img-head{
+    border-radius: 30px;
+    width: 100%;
+}
+
+.head-red p{
+    width: 100%;
+    font-size: 20px;
+}
+
+.isian{
+    background-color: #2E073F;
+    text-align: justify;
+    color: white;
+    margin: 50px;
+    padding: 30px;
+    border-radius: 30px;
+    width: 50%;
+    align-items: center;
+    margin-left: 25%;
+}
+
+.isian h5{
+    text-align: right;
+}
+
+.isian h2{
+    background-color: #500073;
+    padding: 30px;
+    margin: 50px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+.isian img{
+    border-radius: 30px;
+    width: 100%;
+}
+
+.isian p{
+    width: 100%;
+    font-size: 20px;
+}
+
+.rap-indo{
+    background-color: #000B58;
+    text-align: justify;
+    color: white;
+    margin: 50px;
+    padding: 30px;
+    border-radius: 30px;
+    width: 50%;
+    align-items: center;
+    margin-left: 25%;
+}
+
+.rap-indo h5{
+    text-align: right;
+}
+
+.rap-indo h2{
+    background-color: #003161;
+    padding: 30px;
+    margin: 50px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+.rap-indo img{
+    border-radius: 30px;
+    width: 100%;
+}
+
+.rap-indo p{
+    width: 100%;
+    font-size: 20px;
+}
+
+.rich-brian{
+    background-color: #FFBB5C;
+    text-align: justify;
+    color: white;
+    margin: 50px;
+    padding: 30px;
+    border-radius: 30px;
+    width: 50%;
+    align-items: center;
+    margin-left: 25%;
+}
+
+.rich-brian h5{
+    text-align: right;
+}
+
+.rich-brian h2{
+    background-color: #FF9B50;
+    padding: 30px;
+    margin: 50px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+.rich-brian img{
+    border-radius: 30px;
+    width: 100%;
+}
+.rich-brian p{
+    width: 100%;
+    font-size: 20px;
+}
+
+.rich-brian h4{
+    background-color: #FF9B50;
+    padding: 5px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+.rich-brian li{
+    width: 100%;
+    font-size: 20px;
+}
+
+.musik{
+    background-color: #183D3D;
+    text-align: justify;
+    color: white;
+    margin: 50px;
+    padding: 30px;
+    border-radius: 30px;
+    width: 50%;
+    align-items: center;
+    margin-left: 25%;
+    font-size: 20px;
+}
+
+.musik dt img{
+    border-radius: 30px;
+    width: 30%;
+
+}
+
+.musik dt{
+    font-weight: bold;
+    
+}
+
+.musik h2{
+    background-color: #5C8374;
+    padding: 30px;
+    margin: 50px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+.musik h5{
+    text-align: right;
+}
+
+.gebrakan{
+    background-color: #453C67;
+    text-align: justify;
+    color: white;
+    margin: 50px;
+    padding: 30px;
+    border-radius: 30px;
+    width: 50%;
+    align-items: center;
+    margin-left: 25%;
+    font-size: 20px;
+}
+
+.gebrakan h5{
+    text-align: right;
+}
+
+.gebrakan h2{
+    background-color: #6D67E4;
+    padding: 30px;
+    margin: 50px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+.gebrakan img{
+    border-radius: 30px;
+    width: 45%;
+}
+
+.footer{
+    font-size: 25px;
+    text-align: center;
+    background-color: #3674B5;
+    color: #D1F8EF;
+    padding: 5px;
+}
+
+.footer ul li{
+    display: block;
+    text-align: right;
+    background-color: #6899ce;
+    margin: 10px;
+    border-radius: 6px;
+    margin-left: 1540px;
+}
